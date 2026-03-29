@@ -4,3 +4,4 @@ curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs \ https://raw.githubuse
 curl -fLo ~/.tmux.conf --create-dirs \ https://raw.githubusercontent.com/Chickcahbob/configs/master/.tmux.conf
 curl -fLo ~/.config/nvim/init.vim --create-dirs \ https://raw.githubusercontent.com/Chickcahbob/configs/master/init.vim
 sudo gunzip /usr/share/wordlists/rockyou.txt.gz
+sudo bloodhound-setup
